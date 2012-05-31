@@ -1,3 +1,3 @@
 sap
 ===
-smu
+[closed]
